@@ -50,9 +50,9 @@
 
 <div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ttaebari&show_icons=true&theme=tokyonight&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=ttaebari&show_icons=true&theme=radical&count_private=true" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttaebari&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttaebari&layout=compact&theme=radical" />
 
 </div>
 
