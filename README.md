@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Taeho
 
-💻 Fullstack Developer  
+💻 Backend Developer  
 🚀 React + TypeScript | Spring Boot (Java/Kotlin)  
 🐳 Docker | ⚙ CI/CD (GitHub Actions)  
 📍 Korea  
@@ -48,7 +48,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ttaebari&show_icons=true&theme=tokyonight&count_private=true" />
 <br/>
